@@ -13,7 +13,7 @@ Experience
 **Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 
 - Created 10 000 hours of value to developers through speaking engagements, mentorship & videos
-- Lead the startup developer relations effort which resulted in thousands of dollars in MRR
+- Led the startup developer relations effort which resulted in thousands of dollars in MRR
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
 

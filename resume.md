@@ -10,32 +10,32 @@
 
 Experience
 ----------
-**Senior Developer Advocate, DigitalOcean** (2019-2020)
+**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 
 - Created 10 000 hours of value to developers through speaking engagements, mentorship & videos
 - Lead the startup developer relations effort which resulted in thousands of dollars in MRR
 
-**Senior Developer Evangelist, Fitbit** (2017-2018)
+**Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
 
 - Built the first Fitbit developer community which successfully help launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
 
-**Self-employed** (2015-2017)
+**Self-employed** (2015/01 - 2017/10)
 
 - Project rescue technical expert (code & investigation) & Developer Relations contracts
 - Trusted by Microsoft Canada, Analystik, Immunio, RDÉE Canada, Edgenda and more
 
-**Senior Technical Evangelist, Mozilla** (2013-2014)
+**Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12)
 
 - Mentored web developers responsible for more than 20% of the marketplace Firefox OS applications
 - Conducted workshops & being Mozilla spokesperson in EMEA & APAC
 
-**Technical Evangelist, Microsoft** (2011-2013)
+**Technical Evangelist, Microsoft** (2011/01 - 2013/07)
 
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
 
-**Software Developer** (2002-2010)
+**Software Developer** (2002/05 - 2010/12)
 
 - Software Developer, team & project lead at IBI Solutions, 123Certification & as a freelancer
 

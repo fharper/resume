@@ -22,7 +22,7 @@ Experience
 
 **Self-employed** (2015/01 - 2017/10)
 
-- Project rescue technical expert (code & investigation) & Developer Relations contracts
+- Technical expert for project rescue (code & investigation) & Developer Relations contracts
 - Trusted by Microsoft Canada, Analystik, Immunio, RDÉE Canada, Edgenda and more
 
 **Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12)

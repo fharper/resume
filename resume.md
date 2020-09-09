@@ -6,7 +6,7 @@
 1. 20 years in tech —10 in developer relations
 2. Seasoned public speaker —160+ talks in 22 countries
 3. Published author —personal branding for developers at Apress
-4. As a knack for creating entertaining educative videos
+4. Has a knack for creating entertaining educative videos
 
 Experience
 ----------

@@ -28,7 +28,7 @@ Experience
 **Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12)
 
 - Mentored web developers responsible for more than 20% of the marketplace Firefox OS applications
-- Conducted workshops & being Mozilla spokesperson in EMEA & APAC
+- Conducted workshops & was a Mozilla spokesperson in EMEA & APAC
 
 **Technical Evangelist, Microsoft** (2011/01 - 2013/07)
 

@@ -17,7 +17,7 @@ Experience
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
 
-- Built the first Fitbit developer community which successfully help launch Fitbit's first two smartwatches
+- Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
 
 **Self-employed** (2015/01 - 2017/10)

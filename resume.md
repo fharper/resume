@@ -1,18 +1,18 @@
 % Frédéric Harper
 
-#### Experienced & passionate Developer Advocate with a strong developer background
+#### Experienced & passionate Developer Advocate with a strong background in software development
 ###### [ https://fred.dev ] . [ hi@fred.dev ]
 
-1. 20 years in tech—10 in developer relations
-2. Seasoned public speaker—160+ talks in 22 countries
-3. Published author—personal branding for developers at Apress
-4. Has a knack for creating entertaining educative videos
+1. 20 years industry experience — 10 in developer relations
+2. Seasoned public speaker — 160+ talks in 22 countries
+3. Published author — *Success in Programming* (Personal Branding for Developers) at Apress
+4. Has a talent for creating entertaining & educative videos
 
 Experience
 ----------
 **Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 
-- Created 10 000 hours of value to developers through speaking engagements, mentorship & videos
+- Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 - Led the startup developer relations effort which resulted in thousands of dollars in MRR
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
@@ -23,11 +23,11 @@ Experience
 **Self-employed** (2015/01 - 2017/10)
 
 - Technical expert for project rescue (code & investigation) & Developer Relations contracts
-- Trusted by Microsoft Canada, Analystik, Immunio, RDÉE Canada, Edgenda and more
+- Trusted by Microsoft Canada, Analystik, Immunio, RDÉE Canada, Edgenda & more
 
 **Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12)
 
-- Mentored web developers responsible for more than 20% of the marketplace Firefox OS applications
+- Mentored web developers responsible for more than 20% of the Firefox OS marketplace applications
 - Conducted workshops & was a Mozilla spokesperson in EMEA & APAC
 
 **Technical Evangelist, Microsoft** (2011/01 - 2013/07)

@@ -45,7 +45,7 @@ Skills
 
 **Past life:** PHP, C#, Java, Ruby, Python
 
-**Others:** "Cloud", Kubernetes, Terraform, Linux
+**Others:** "Cloud", Kubernetes, Terraform, GNU/Linux
 
 
 ##### https://linkedin.com/in/fredericharper

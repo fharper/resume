@@ -30,6 +30,7 @@ Experience
 
 - Mentored web developers responsible for more than 30% of the Firefox OS marketplace applications
 - Conducted workshops & was a Mozilla spokesperson in EMEA & APAC
+- Delivered more than 40 talks at conferences & meetups in the US, India, France, UK & more
 
 **Technical Evangelist, Microsoft** (2011/01 - 2013/07)
 

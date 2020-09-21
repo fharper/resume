@@ -14,6 +14,7 @@ Experience
 
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 - Led the startup developer relations effort which resulted in thousands in Monthly Recurring Revenue
+- Spoke at conferences & metups in the United States, Hong-Kong, Portugal, Germany & France
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
 

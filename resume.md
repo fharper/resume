@@ -45,7 +45,7 @@ Skills
 
 **Past life:** PHP, C#, Java, Ruby, Python
 
-**Others:** "Cloud", Kubernetes, Terraform, GNU/Linux
+**Others:** Cloud Architecture, Kubernetes, Terraform, GNU/Linux
 
 
 ##### 

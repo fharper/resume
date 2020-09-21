@@ -20,6 +20,7 @@ Experience
 
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
+- Spoke at conferences & metups in the United States, Japan, Australia, Ireland, Romania & Singapore
 
 **Self-employed** (2015/01 - 2017/10)
 

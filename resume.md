@@ -41,7 +41,7 @@ Experience
 
 Skills
 -----------
-**Main languages:** JavaScript, Node.js, HTML/CSS
+**Proficiency:** JavaScript, Node.js, HTML/CSS
 
 **Past life:** PHP, C#, Java, Ruby, Python
 

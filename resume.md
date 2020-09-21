@@ -1,6 +1,6 @@
 % Frédéric Harper
 
-#### Experienced & passionate Developer Advocate with a strong background in software development
+#### Experienced & passionate Developer Advocate looking for his long-term home
 ###### [ https://fred.dev ] . [ hi@fred.dev ]
 
 1. 20 years industry experience — 10 in developer relations & 10 as a developer

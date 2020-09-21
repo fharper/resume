@@ -35,6 +35,7 @@ Experience
 
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
+- Delivered more than 60 talks (some being keynotes) at conferences & meetups in Canada
 
 **Software Developer** (2002/05 - 2010/12)
 

@@ -1,7 +1,7 @@
 % Frédéric Harper
 
 #### Experienced & passionate Developer Advocate looking for his long-term home
-###### [ https://fred.dev ] . [ hi@fred.dev ]
+###### [ https://fred.dev ] . [ hi@fred.dev ] . [ https://linkedin.com/in/fredericharper ]
 
 1. 20 years industry experience — 10 in developer relations & 10 as a developer
 2. Seasoned public speaker — 160+ talks in 22 countries
@@ -48,4 +48,4 @@ Skills
 **Others:** "Cloud", Kubernetes, Terraform, GNU/Linux
 
 
-##### https://linkedin.com/in/fredericharper
+##### 

@@ -41,11 +41,8 @@ Experience
 
 Skills
 -----------
-**Proficiency:** JavaScript, Node.js, HTML/CSS
+*Love to learn new programming languages or technologies.*
 
-**Past life:** PHP, C#, Java, Ruby, Python
+**Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux
 
-**Others:** Cloud Architecture, Kubernetes, Terraform, GNU/Linux
-
-
-##### 
+**Intermediate:** PHP, C#, Java, Ruby, Python, Kubernetes, Terraform

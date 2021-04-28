@@ -10,12 +10,12 @@
 
 Experience
 ----------
-**Director of Developer Relations, MeiliSearch** (2020/11–2021/04)
+**Director of Developer Relations, MeiliSearch** (2020/11  -  2021/04)
 
 - Managed & mentored a team of Developer Advocate & Technical Writer
 - Defined the developer relations framework & implemented better processes for the business itself
 
-**Senior Developer Advocate, DigitalOcean** (2019/05–2020/02)
+**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 - Led the startup developer relations efforts which resulted in thousands in Monthly Recurring Revenue

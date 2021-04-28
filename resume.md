@@ -1,7 +1,7 @@
 % Frédéric Harper
 
 #### Experienced & passionate Developer Advocate looking for his long-term home
-###### [ fred.dev ] . [ hi@fred.dev ] . [ linkedin.com/in/fredericharper ]
+###### [ fred.dev ] . [ hi@fred.dev ] . [ linkedin.com/in/fredericharper ] . [ github.com/fharper ]
 
 1. 20 years industry experience — 10 in developer relations & 10 as a developer
 2. Seasoned public speaker — 160+ talks in 22 countries

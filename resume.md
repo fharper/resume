@@ -45,7 +45,7 @@ Experience
 
 Skills
 -----------
-*Love to learn new programming languages or technologies.*
+*Love to learn new programming languages, technologies or products.*
 
 **Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux
 

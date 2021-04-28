@@ -56,3 +56,7 @@ ul li:before {
 ol li {
     list-style: square;
 }
+
+h4 strong {
+    color: #f39;
+}

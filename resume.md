@@ -49,4 +49,4 @@ Skills
 
 **Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux
 
-**Intermediate:** PHP, C#, Java, Ruby, Python, Kubernetes, Terraform
+**Intermediate:** PHP, C#, Java, Ruby, Python, Kubernetes, Terraform, CSS

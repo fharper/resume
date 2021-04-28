@@ -18,14 +18,12 @@ Experience
 **Senior Developer Advocate, DigitalOcean** (2019/05–2020/02)
 
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
-- Led the startup developer relations effort which resulted in thousands in Monthly Recurring Revenue
-- Spoke at conferences & metups in the United States, Hong-Kong, Portugal, Germany & France
+- Led the startup developer relations efforts which resulted in thousands in Monthly Recurring Revenue
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
 
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
-- Spoke at conferences & metups in the United States, Japan, Australia, Ireland, Romania & Singapore
 
 **Self-employed** (2015/01 - 2017/10)
 
@@ -36,13 +34,11 @@ Experience
 
 - Mentored web developers responsible for more than 30% of the Firefox OS marketplace applications
 - Conducted workshops & was a Mozilla spokesperson in EMEA & APAC
-- Delivered more than 40 talks at conferences & meetups in the US, India, France, UK & more
 
 **Technical Evangelist, Microsoft** (2011/01 - 2013/07)
 
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
-- Delivered more than 60 talks (some being keynotes) at conferences & meetups in Canada
 
 **Software Developer** (2002/05 - 2010/12)
 

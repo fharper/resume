@@ -6,7 +6,7 @@
 
 1. 20 years industry experience—10 in developer relations & 10 as a developer
 2. Seasoned public speaker—160+ talks & keynotes in 22 countries
-3. Published author—*Success in Programming* (Personal Branding for Developers) at Apress
+3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a talent for creating entertaining educational videos & growing healthy developer communities
 
 **Director of Developer Relations, MeiliSearch** (2020/11  -  2021/04)
@@ -41,13 +41,13 @@
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
 
-**Software Developer** (2002/05 - 2010/12)
+Software Developer** (2002/05 - 2010/12)
 
 - Software Developer, team & project lead at IBI Solutions, 123Certification & as a freelancer
 
 ## Skills
 
-*Love to learn new programming languages, technologies or products.*
+_Love to learn new programming languages, technologies or products._
 
 **Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux
 

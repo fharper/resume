@@ -10,13 +10,13 @@ On macOS :
 
 ```zsh
 brew install pandoc
-brew cask install wkhtmltopdf
-pandoc -t html5 --css resume.css -V margin-top=.25in -V margin-bottom=0in -V margin-left=.5in -V margin-right=.5in resume.md -o Frederic_Harper-resume.pdf && open Frederic_Harper-resume.pdf
+brew install --cask wkhtmltopdf
+pandoc --pdf-engine=wkhtmltopdf -t html5 --css resume.css -V margin-top=.25in -V margin-bottom=0in -V margin-left=.5in -V margin-right=.5in resume.md -o Frederic_Harper-resume.pdf && open Frederic_Harper-resume.pdf
 ```
 
 On Debian GNU/Linux :
 
 ```zsh
 sudo apt-get install pandoc wkhtmltopdf
-pandoc -t html5 --css resume.css -V margin-top=.25in -V margin-bottom=0in -V margin-left=.5in -V margin-right=.5in resume.md -o Frederic_Harper-resume.pdf && evince Frederic_Harper-resume.pdf
+pandoc --pdf-engine=wkhtmltopdf -t html5 --css resume.css -V margin-top=.25in -V margin-bottom=0in -V margin-left=.5in -V margin-right=.5in resume.md -o Frederic_Harper-resume.pdf && evince Frederic_Harper-resume.pdf
 ```

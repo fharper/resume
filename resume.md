@@ -1,6 +1,7 @@
-% Frédéric Harper
+# Frédéric Harper
 
 #### Experienced & passionate Developer Advocate looking for his **long-term** home
+
 ###### [ he / him ] . [ hi@fred.dev ] . [ fred.dev ] . [ linkedin.com/in/fredericharper ] . [ github.com/fharper ]
 
 1. 20 years industry experience—10 in developer relations & 10 as a developer
@@ -8,9 +9,9 @@
 3. Published author—*Success in Programming* (Personal Branding for Developers) at Apress
 4. Has a talent for creating entertaining educational videos & growing healthy developer communities
 
-Experience
-----------
 **Director of Developer Relations, MeiliSearch** (2020/11  -  2021/04)
+## Experience
+
 
 - Managed & mentored a team of Developer Advocate & Technical Writer
 - Defined the developer relations framework & implemented better processes for the business itself
@@ -44,8 +45,8 @@ Experience
 
 - Software Developer, team & project lead at IBI Solutions, 123Certification & as a freelancer
 
-Skills
------------
+## Skills
+
 *Love to learn new programming languages, technologies or products.*
 
 **Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux

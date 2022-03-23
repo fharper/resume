@@ -9,12 +9,13 @@
 3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a talent for creating entertaining educational videos & growing healthy developer communities
 
-**Director of Developer Relations, MeiliSearch** (2020/11  -  2021/04)
 ## Experience
 
+**Director of Developer Relations, Mindee** (since 2021/08)
 
-- Managed & mentored a team of Developer Advocate & Technical Writer
-- Defined the developer relations framework & implemented better processes for the business itself
+- Defining the developer relations framework & building a multidisciplinary team
+- Implemented a content _marketing_ strategy generating more than 160 pieces of content
+- Responsable of our Open Source projects, media relations, documentation & community
 
 **Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 

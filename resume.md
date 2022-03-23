@@ -4,7 +4,7 @@
 
 ###### [ he / him ] . [ hi@fred.dev ] . [ fred.dev ] . [ linkedin.com/in/fredericharper ] . [ github.com/fharper ]
 
-1. 20 years industry experience—10 in developer relations & 10 as a developer
+1. 20 years industry experience—10 in Developer Relations & 10 as a full-time Developer
 2. Seasoned public speaker—160+ talks & keynotes in 22 countries
 3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a talent for creating entertaining educational videos & growing healthy developer communities
@@ -43,12 +43,12 @@
 
 Software Developer** (2002/05 - 2010/12)
 
-- Software Developer, team & project lead at IBI Solutions, 123Certification & as a freelancer
+- Software Developer, Team Lead & Project Lead at IBI Solutions, 123Certification & as a freelancer
 
 ## Skills
 
 _Love to learn new programming languages, technologies or products._
 
-**Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, GNU/Linux
+**Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, CSS, GNU/Linux & more
 
-**Intermediate:** PHP, C#, Java, Ruby, Python, Kubernetes, Terraform, CSS
+**Intermediate:** PHP, C#, Ruby, Python, Kubernetes, Terraform & more

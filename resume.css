@@ -1,14 +1,19 @@
 body {
-    margin: 0px;
+    font-family: sans-serif;
     font-size: 18px;
     line-height: 1.6;
-    font-family: sans-serif;
+    margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
     margin: 20px 0 10px;
     padding: 0;
-    font-weight: bold;
 }
 
 h1 {
@@ -17,34 +22,34 @@ h1 {
 }
 
 h2 {
-    font-size: 28px;
     border-bottom: 1px solid #ccc;
     color: #f39;
+    font-size: 28px;
 }
 
 h4 {
-    font-size: 18px;
     color: #333;
-    text-align: center;
     display: block;
+    font-size: 18px;
+    text-align: center;
 }
 
 h6 {
     color: #777;
-    text-align: center;
-    margin-top: -10px;
     font-size: 14px;
+    margin-top: -10px;
+    text-align: center;
 }
 
 ul li {
     list-style: none;
 }
 
-ul li:before {
-    display: inline-block;
+ul li::before {
     content: "-";
-    width: 20px;
+    display: inline-block;
     margin-left: -20px;
+    width: 20px;
 }
 
 ol li {
@@ -53,4 +58,9 @@ ol li {
 
 h4 strong {
     color: #f39;
+}
+
+a {
+    color: #0074d9;
+    text-decoration: none;
 }

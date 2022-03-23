@@ -42,7 +42,7 @@
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
 
-Software Developer** (2002/05 - 2010/12)
+**Software Developer** (2002/05 - 2010/12)
 
 - Software Developer, Team Lead & Project Lead at IBI Solutions, 123Certification & as a freelancer
 

@@ -11,7 +11,7 @@
 
 ## Experience
 
-**Director of Developer Relations, Mindee** (since 2021/08)
+**Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 
 - Defining the developer relations framework & building a multidisciplinary team
 - Implemented a content _marketing_ strategy generating more than 160 pieces of content

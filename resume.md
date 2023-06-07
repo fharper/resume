@@ -19,8 +19,8 @@
 
 **Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 
-- Implemented a content strategy generating more than 160 pieces of content
 - Defined the devrel framework & responsible for our open source, media relations, docs & community
+- Implemented a content strategy which generated more than 160 pieces of content
 
 **Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 

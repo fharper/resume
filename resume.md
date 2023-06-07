@@ -2,7 +2,7 @@
 
 #### Experienced & passionate Developer Advocate looking for his **long-term** home
 
-###### [ he / him ] . [ hi@fred.dev ] . [ fred.dev ] . [ linkedin.com/in/fredericharper ] . [ github.com/fharper ]
+###### [ he / him ] . [ [hi@fred.dev](mailto:hi@fred.dev) ] . [ [fred.dev](https://fred.dev) ] . [ [linkedin.com/in/fredericharper](https://linkedin.com/in/fredericharper) ] . [ [github.com/fharper](https://github.com/fharper) ]
 
 1. 20+ years tech experience—10+ years in Developer Relations & 10 years as a full-time Developer
 2. Seasoned public speaker—180+ talks & keynotes in 23 countries

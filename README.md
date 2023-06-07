@@ -11,7 +11,7 @@ On macOS :
 ```zsh
 brew install pandoc
 brew install --cask wkhtmltopdf
-./resume.sh
+zsh resume.sh
 ```
 
 On Debian GNU/Linux :

@@ -4,8 +4,8 @@
 
 ###### [ he / him ] . [ hi@fred.dev ] . [ fred.dev ] . [ linkedin.com/in/fredericharper ] . [ github.com/fharper ]
 
-1. 20 years industry experience—10 in Developer Relations & 10 as a full-time Developer
 2. Seasoned public speaker—160+ talks & keynotes in 22 countries
+1. 20+ years tech experience—10+ years in Developer Relations & 10 years as a full-time Developer
 3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a talent for creating entertaining educational videos & growing healthy developer communities
 

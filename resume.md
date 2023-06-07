@@ -19,12 +19,12 @@
 
 **Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 
-- Defined the devrel framework & responsable of our open source, media relations, docs & community
 - Implemented a content strategy generating more than 160 pieces of content
+- Defined the devrel framework & responsible for our open source, media relations, docs & community
 
 **Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
 
-- Led the startup devrel efforts which resulted in thousands US dollars in MRR
+- Led the startup devrel efforts which resulted in thousands of US dollars in MRR
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)

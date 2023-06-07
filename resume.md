@@ -12,6 +12,11 @@
 
 ## Experience
 
+**Principal Developer Advocate, Kubefirst (part of Kubeshop)** (2022/11 - today)
+
+- Building the foundation of developer relations around Cloud Native ecosystem (Kubernetes & GitOps)
+- In the first five months: 4 in-person events, 6 podcasts, 1 workshop, 12 livestreams, docs overhaul...
+
 **Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 
 - Defined the devrel framework & responsable of our open source, media relations, docs & community

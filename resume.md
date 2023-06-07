@@ -8,6 +8,7 @@
 2. Seasoned public speaker—180+ talks & keynotes in 23 countries
 3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a passion for public speaking, creating entertaining educational videos & growing communities
+5. Love to learn new programming languages, technologies or products
 
 ## Experience
 
@@ -44,11 +45,3 @@
 **Software Developer** (2002/05 - 2010/12)
 
 - Software Developer, Team Lead & Project Lead at IBI Solutions, 123Certification & as a freelancer
-
-## Skills
-
-_Love to learn new programming languages, technologies or products._
-
-**Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, CSS, GNU/Linux & more
-
-**Intermediate:** PHP, C#, Ruby, Python, Kubernetes, Terraform, Argo CD & more

@@ -51,4 +51,4 @@ _Love to learn new programming languages, technologies or products._
 
 **Advanced:** JavaScript, Node.js, HTML, Cloud Architecture, CSS, GNU/Linux & more
 
-**Intermediate:** PHP, C#, Ruby, Python, Kubernetes, Terraform & more
+**Intermediate:** PHP, C#, Ruby, Python, Kubernetes, Terraform, Argo CD & more

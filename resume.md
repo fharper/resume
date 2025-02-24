@@ -4,18 +4,21 @@
 
 ###### [ he / him ] . [ [hi@fred.dev](mailto:hi@fred.dev) ] . [ [fred.dev](https://fred.dev) ] . [ [linkedin.com/in/fredericharper](https://linkedin.com/in/fredericharper) ] . [ [github.com/fharper](https://github.com/fharper) ]
 
-1. 20+ years tech experience—10+ years in Developer Relations & 10 years as a full-time Developer
-2. Seasoned public speaker—180+ talks & keynotes in 23 countries
+1. 23 years tech experience—13 years in Developer Relations & 10 years as a full-time Developer
+2. Seasoned public speaker—190 talks & keynotes in 23 countries
 3. Published author—_Success in Programming_ (Personal Branding for Developers) at Apress
 4. Has a passion for public speaking, creating entertaining educational videos & growing communities
 5. Love to learn new programming languages, technologies or products
 
 ## Experience
 
-**Principal Developer Advocate, Kubefirst (part of Kubeshop)** (2022/11 - today)
+**Principal Developer Advocate, Konstruct (formely Kubefirst, formely Kubeshop)** (2022/11 - 2025/03)
 
-- Building the foundation of developer relations around Cloud Native ecosystem (Kubernetes & GitOps)
-- In the first five months: 4 in-person events, 6 podcasts, 1 workshop, 12 livestreams, docs overhaul...
+- Designed and lead the devrel initiative ensuring the company growth to 6k Kubernetes clusters yearly.
+- Established an online video presence hosting 50 technical livestreams (550 subscribers with 22K views).
+- Wrote the Kubefirst docs (implemented docs-as-code), ensuring clarity and success for users.
+- Created a community fostering collaboration & knowledge sharing (27K exchanges from 500 members).
+- Owned the Kubefirst open source effort, increasing the contributions & the GitHub stars from 50 to 1900.
 
 **Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 

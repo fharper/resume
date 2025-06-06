@@ -43,12 +43,18 @@
 
 ㅤㅤFitbit OS, HTML, JavaScript, OpenGraph, SVG
 
-**Self-employed** (2015/01 - 2017/10) — _Canada_
+**Developer Evangelist & Software Developer, Self-employed** (2015/01 - 2017/10) — _Canada_
 
 - Technical expert for project rescue (code & investigation) & Developer Relations contracts
 - Trusted by Analystik, Edgenda, Immunio, Mashape (Kong), Microsoft Canada, RDÉE Canada & more
 
 ㅤㅤAndroid, C#, CSS, DevOps, HTML, Ionic, Java, JavaScript, PHP, Python, Ruby, SecDevOps, Security
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12) — _United States, remote from Canada_
 

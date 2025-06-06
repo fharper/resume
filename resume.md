@@ -46,7 +46,7 @@
 **Self-employed** (2015/01 - 2017/10)
 
 - Technical expert for project rescue (code & investigation) & Developer Relations contracts
-- Trusted by Microsoft Canada, Analystik, Immunio, RDÉE Canada, Edgenda & more
+- Trusted by Analystik, Edgenda, Immunio, Mashape (Kong), Microsoft Canada, RDÉE Canada & more
 
 ㅤㅤAndroid, C#, CSS, DevOps, HTML, Ionic, Java, JavaScript, PHP, Python, Ruby, SecDevOps, Security
 

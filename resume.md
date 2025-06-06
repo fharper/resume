@@ -12,7 +12,7 @@
 
 ## Experience
 
-**Principal Developer Advocate, Konstruct** (2022/11 - 2025/03) — _United States, remote from Canada_
+**Principal Developer Advocate, Konstruct** (2022/11 - 2025/03) — _United States* _
 
 - Designed and lead the devrel initiative ensuring the company growth to 6k Kubernetes clusters yearly.
 - Established an online video presence hosting 50 technical livestreams (550 subscribers with 22K views).
@@ -22,21 +22,21 @@
 
 ㅤㅤAWS, Argo CD, Azure, Cloud Native, DevOps, GitOps, HashiCorp Vault, Kubernetes, Terraform
 
-**Director of Developer Relations, Mindee** (2021/08 - 2022/08) — _France, remote from Canada_
+**Director of Developer Relations, Mindee** (2021/08 - 2022/08) — _France* _
 
 - Defined the devrel framework & responsible for our open source, media relations, docs & community
 - Implemented a content strategy which generated more than 160 pieces of content within a year
 
 ㅤㅤAI, Deep Learning, LLM, JavaScript, Machine learning, Node.js, OCR, Python
 
-**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02) — _United States, remote from Canada_
+**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02) — _United States* _
 
 - Led the startup devrel efforts which resulted in thousands of US dollars in MRR
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 
 ㅤㅤCloud architecture, Cloud Native, DBaaS, Kubernetes, MySQL, PaaS, PostgreSQL, Startups, VM, VPC
 
-**Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09) — _United States, remote from Canada_
+**Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09) — _United States* _
 
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
@@ -56,7 +56,7 @@
 <br>
 <br>
 
-**Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12) — _United States, remote from Canada_
+**Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12) — _United States* _
 
 - Mentored web developers responsible for more than 30% of the Firefox OS marketplace applications
 - Mozilla spokesperson & conducted workshops EMEA & APAC
@@ -90,3 +90,8 @@
 - Created the first welding simulator in the world & an online welding drawing collaboration tool
 
 ㅤㅤCSS, embperl, HTML, Java, JavaScript, PostgreSQL
+
+<br>
+<br>
+
+_* remote from Canada_

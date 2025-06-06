@@ -70,8 +70,23 @@
 
 ㅤㅤAzure, CSS, HTML, JavaScript, Open Data, Open Source, PHP, Windows, Windows Phone
 
-**Software Developer** (2002/05 - 2010/12) — _Canada_
+**Software Developer, Self-employed** (2010/04 - 2010/12) — _Canada_
 
-- Software Developer, Team Lead & Project Lead at IBI Solutions, 123Certification & as a freelancer
+- Software Development & Public Speaking contracts
+- Trusted by Air Inuit, École du Show-Business, Kindo Communication, OIQ, Sodexo C.A.E. & more
 
-ㅤㅤBlackBerry, C#, CSS, embperl, HTML, Java, JavaScript, Microsoft SQL Server, Objective-C, SSIS, SSRS, Windows Mobile
+ㅤC#, CSS, HTML, JavaScript, Objective-C
+
+**Senior Software Developer, IBI Solutions** (2007/06 - 2010/04) — _Canada_
+
+- Led a team of developers & owned the business analyses, architectures & quality insurance of our ALM
+- Specialization into telecommunication line of business applications
+
+ㅤㅤBlackBerry, C#, CSS, HTML, Java, JavaScript, SQL Server, Objective-C, SSIS, SSRS, Windows Mobile
+
+**Software Developer, 123Certification** (2002/05 - 2007/06) — _Canada_
+
+- Led a multidisciplinary team (welder, mathematician, physician, engineer, UX expert & developers)
+- Created the first welding simulator in the world & an online welding drawing collaboration tool
+
+ㅤㅤCSS, embperl, HTML, Java, JavaScript, PostgreSQL

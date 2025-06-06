@@ -25,7 +25,7 @@
 **Director of Developer Relations, Mindee** (2021/08 - 2022/08)
 
 - Defined the devrel framework & responsible for our open source, media relations, docs & community
-- Implemented a content strategy which generated more than 160 pieces of content
+- Implemented a content strategy which generated more than 160 pieces of content within a year
 
 ㅤㅤAI, Deep Learning, LLM, JavaScript, Machine learning, Node.js, OCR, Python
 

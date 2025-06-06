@@ -48,7 +48,7 @@
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
 
-ㅤㅤFitbit OS, HTML, JavaScript, OpenGraph, SVG
+ㅤㅤFitbit OS, GraphQL, HTML, JavaScript, SVG
 
 <br>
 <br>

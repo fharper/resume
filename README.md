@@ -20,3 +20,5 @@ On Debian GNU/Linux :
 sudo apt-get install pandoc wkhtmltopdf
 ./resume.sh
 ```
+
+_Note that wkhtmltopdf isn't developed anymore, but it's still the best PDF render for my resume format and this process._

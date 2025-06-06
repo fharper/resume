@@ -12,7 +12,7 @@
 
 ## Experience
 
-**Principal Developer Advocate, Konstruct** (2022/11 - 2025/03)
+**Principal Developer Advocate, Konstruct** (2022/11 - 2025/03) — _United States, remote from Canada_
 
 - Designed and lead the devrel initiative ensuring the company growth to 6k Kubernetes clusters yearly.
 - Established an online video presence hosting 50 technical livestreams (550 subscribers with 22K views).
@@ -22,49 +22,49 @@
 
 ㅤㅤAWS, Argo CD, Azure, Cloud Native, DevOps, GitOps, HashiCorp Vault, Kubernetes, Terraform
 
-**Director of Developer Relations, Mindee** (2021/08 - 2022/08)
+**Director of Developer Relations, Mindee** (2021/08 - 2022/08) — _France, remote from Canada_
 
 - Defined the devrel framework & responsible for our open source, media relations, docs & community
 - Implemented a content strategy which generated more than 160 pieces of content within a year
 
 ㅤㅤAI, Deep Learning, LLM, JavaScript, Machine learning, Node.js, OCR, Python
 
-**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02)
+**Senior Developer Advocate, DigitalOcean** (2019/05 - 2020/02) — _United States, remote from Canada_
 
 - Led the startup devrel efforts which resulted in thousands of US dollars in MRR
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 
 ㅤㅤCloud Native, DBaaS, Kubernetes, MySQL, PaaS, PostgreSQL, Startups, VM, VPC
 
-**Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09)
+**Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09) — _United States, remote from Canada_
 
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
 - Creatively acquired financial resources to lead the developer relations team to success
 
 ㅤㅤFitbit OS, HTML, JavaScript, OpenGraph, SVG
 
-**Self-employed** (2015/01 - 2017/10)
+**Self-employed** (2015/01 - 2017/10) — _Canada_
 
 - Technical expert for project rescue (code & investigation) & Developer Relations contracts
 - Trusted by Analystik, Edgenda, Immunio, Mashape (Kong), Microsoft Canada, RDÉE Canada & more
 
 ㅤㅤAndroid, C#, CSS, DevOps, HTML, Ionic, Java, JavaScript, PHP, Python, Ruby, SecDevOps, Security
 
-**Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12)
+**Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12) — _United States, remote from Canada_
 
 - Mentored web developers responsible for more than 30% of the Firefox OS marketplace applications
 - Mozilla spokesperson & conducted workshops EMEA & APAC
 
 ㅤㅤCSS, Firefox OS, HTML, JavaScript
 
-**Technical Evangelist, Microsoft** (2011/01 - 2013/07)
+**Technical Evangelist, Microsoft** (2011/01 - 2013/07) — _Canada_
 
 - Technical & strategic lead for the Canadian open source, open data & interoperability initiative
 - Successfully responsible for Azure PHP developers & Windows 8 Web developers Canadian metrics
 
 ㅤㅤAzure, CSS, HTML, JavaScript, Open Data, Open Source, PHP, Windows, Windows Phone
 
-**Software Developer** (2002/05 - 2010/12)
+**Software Developer** (2002/05 - 2010/12) — _Canada_
 
 - Software Developer, Team Lead & Project Lead at IBI Solutions, 123Certification & as a freelancer
 

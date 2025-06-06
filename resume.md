@@ -12,7 +12,7 @@
 
 ## Experience
 
-**Principal Developer Advocate, Konstruct (formely Kubefirst, formely Kubeshop)** (2022/11 - 2025/03)
+**Principal Developer Advocate, Konstruct** (2022/11 - 2025/03)
 
 - Designed and lead the devrel initiative ensuring the company growth to 6k Kubernetes clusters yearly.
 - Established an online video presence hosting 50 technical livestreams (550 subscribers with 22K views).

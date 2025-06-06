@@ -36,6 +36,13 @@
 
 ㅤㅤCloud architecture, Cloud Native, DBaaS, Kubernetes, MySQL, PaaS, PostgreSQL, Startups, VM, VPC
 
+**Senior Developer Advocate, npm** (2018/11 - 2019/04) — _United States* _
+
+- Owned and defined the developer relations around the package manager
+- Grown the developer community, write blog articles and help our users with technical support
+
+ㅤㅤJavaScript, Node.js, npm
+
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09) — _United States* _
 
 - Built the first Fitbit developer community which successfully helped launch Fitbit's first two smartwatches
@@ -43,18 +50,18 @@
 
 ㅤㅤFitbit OS, HTML, JavaScript, OpenGraph, SVG
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 **Developer Evangelist & Software Developer, Self-employed** (2015/01 - 2017/10) — _Canada_
 
 - Technical expert for project rescue (code & investigation) & Developer Relations contracts
 - Trusted by Analystik, Edgenda, Immunio, Mashape (Kong), Microsoft Canada, RDÉE Canada & more
 
 ㅤㅤAndroid, C#, CSS, DevOps, HTML, Ionic, Java, JavaScript, PHP, Python, Ruby, SecDevOps, Security
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **Senior Technical Evangelist, Mozilla** (2013/07 - 2014/12) — _United States* _
 

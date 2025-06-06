@@ -34,7 +34,7 @@
 - Led the startup devrel efforts which resulted in thousands of US dollars in MRR
 - Created 10,000 hours of value to developers through speaking engagements, mentorship & videos
 
-ㅤㅤCloud Native, DBaaS, Kubernetes, MySQL, PaaS, PostgreSQL, Startups, VM, VPC
+ㅤㅤCloud architecture, Cloud Native, DBaaS, Kubernetes, MySQL, PaaS, PostgreSQL, Startups, VM, VPC
 
 **Senior Developer Evangelist, Fitbit** (2017/11 - 2018/09) — _United States, remote from Canada_
 
